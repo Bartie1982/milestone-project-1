@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+/*----------------------------------------------Colours*/
+.bg-color-name-title {
+      color: #000234;
+}
+
+
+
+/*----------------------------------------------Heading*/
+
+html, body {
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+header {
+    margin: 0;
+    background: url("../images/Villa1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    
+}
+
+.navbar-dark {
+    position: relative;
+    font-size: 22px;
+
+}
+
+.navbar-brand {
+    margin-bottom: 8px;
+    font-size: 25px;
+    
+}
+
+.About-us {
+
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+    
+}
+
+
+
+.Our-fundamentals {
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+}
+    
+
+.corporate-with {
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+
+}        
+
+
+
+.logo {
+    background: url("../images/logo1.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 85px;
+    min-height: 85px;
+    margin-top: 5px;
+    margin-left: 30px;
+    
+
+}    
+
+.quote {
+    margin-top: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #cdcdcd;
+    font-family: "Exo", Montserrat;
+    font-weight: 100;
+    font-size: 30px;
+    
+}
+
+/*----------------------------------------------Our jobs*/
+
+.polaroid {
+  width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.Our-jobs {
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+  
+}
+
+
+/*----------------------------------------------Testimonials*/
+
+.container p {
+  padding: 25px;
+}
+.people {
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+.person {
+    
+    height: inherit;
+    margin-bottom: 30px;
+} 
+.person img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.person p {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.name {
+    font-family: "Exo", Montserrat;
+    background-position: center;
+    margin-top: 50px;
+    font-weight: 100;
+    min-height: 100px;
+    font-size: 46px;
+    color: #fff;
+    
+}
+
+.Testimonials {
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+  
+}
+
+/*----------------------------------------------Spacers/lines/margins/paddings/text */
+
+h1,
+h2,
+h3,
+h4 {
+       margin: 0;
+}
+
+
+
+hr {
+    background-color: grey;
+    height: 1px; 
+    border: 0; }
+
+.h-line3 {
+    margin-top: 0;
+  
+}   
+
+.h-line4 {
+    margin-top: 1%;
+}
+
+.text-space {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.general-sub {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fafafa;
+    font-family: "Exo", Montserrat;
+    font-weight: 300;
+   
+}
+
+.inline-block {
+    display: inline-block;
+    
+}
+
+/*----------------------------------------------Footer*/
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 240px;
+}
+
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.quote-pdf i {
+    font-size: 20px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 8px;
+    transition: all 0.45s ease-in;
+    -moz-transition: all 0.45s ease-in;
+    -webkit-transition: all 0.45s ease-in;
+    -o-transition: all 0.45s ease-in;
+}
+
+.quote-pdf i:hover {
+    color: #40A8AF;
+
+}   
+.social {
+     margin-right: auto;
+     margin-left: auto;
+}
+    
+.social-links li a i {
+    width: 30px;
+    height:30px;
+    padding: 15px;
+    border-radius: 15%;
+    font-size: 15px;
+    line-height: 10px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in;
+    -moz-transition: all 0.35s ease-in;
+    -webkit-transition: all 0.35s ease-in;
+    -o-transition: all 0.35s ease-in;
+}
+
+.social-links li a i:hover {
+    background: #40A8AF;
+}
+
+.all-rights {
+ 
+}
