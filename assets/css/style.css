@@ -25,6 +25,17 @@ header {
     
 }
 
+.logo {
+    background: url("../images/logo1.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 85px;
+    min-height: 85px;
+    margin-top: 5px;
+    margin-left: 30px;
+    
+}  
+
 .navbar-dark {
     position: relative;
     font-size: 22px;
@@ -37,47 +48,6 @@ header {
     
 }
 
-.About-us {
-
-    font-family: "Exo", Montserrat;
-    margin-top: 30px;
-    text-align: center;
-    min-height: 300px;
-    
-}
-
-
-
-.Our-fundamentals {
-    font-family: "Exo", Montserrat;
-    margin-top: 30px;
-    text-align: center;
-    min-height: 300px;
-}
-    
-
-.corporate-with {
-    font-family: "Exo", Montserrat;
-    margin-top: 30px;
-    text-align: center;
-    min-height: 300px;
-
-}        
-
-
-
-.logo {
-    background: url("../images/logo1.png");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: 85px;
-    min-height: 85px;
-    margin-top: 5px;
-    margin-left: 30px;
-    
-
-}    
-
 .quote {
     margin-top: 550px;
     margin-left: auto;
@@ -89,17 +59,39 @@ header {
     
 }
 
+/*----------------------------------------------About us*/
+
+.about-us {
+
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+    
+}
+
+/*----------------------------------------------Our fundamentals*/
+
+
+
+.our-fundamentals {
+    font-family: "Exo", Montserrat;
+    margin-top: 30px;
+    text-align: center;
+    min-height: 300px;
+}
+    
+
+
+
 /*----------------------------------------------Our jobs*/
 
 .polaroid {
   width: 300px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
-  margin-top: 30px;
-  margin-bottom: 40px;
-  margin-left: auto;
-  margin-right: auto;
-    
+  margin: 30px auto 40px auto;
+  
 }
 
 .Our-jobs {
@@ -253,6 +245,3 @@ footer {
     background: #40A8AF;
 }
 
-.all-rights {
- 
-}
