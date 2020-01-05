@@ -1,6 +1,6 @@
 ## Milestone project 1 
 
-## Table of content
+### Table of content
 ###### -Project overview
 ###### -UX
 ###### -Section overview
@@ -14,22 +14,22 @@
 ###### -Media
 ###### -Acknowledgements
 
-#### Project overview
+### Project overview
 - The subject of milestone project is a website created for a construction company.
 - Project is createdin to light and minimalistic view. Simultaneously easy navigated and readable.
 
-#### Website purpose and information 
+### Website purpose and information 
 - Project is created for construction company with information about company itself and contact posibilities.
 - Website contains information about Bs.bygg company as well as type of services provided. Testimonials of satisfied clients
 - and contact information and social link section. Web site is designed to be easy to use and readable. 
 - Navigation on the website is easy, simultaneously all the text informations provide short info for possible clients
 - easy acces to any information in short time. 
 
-#### UX
+### UX
 - As a potential client looking for construction company i could easy find all the section of a website in the menu bar. 
 - Starting at about us then our jobs and description of services types, then user may folow to company's fundamentals and philosophy description, testimonials section and finaly contact and social links information.
 
-#### Section overview
+### Section overview
 - Project starts with logo which simply clicked redirecting us to homepage.
 - Menu bar contains six elements which direct us to a proper website section.
 - When pointed with cursor elements are delicate highlighted. By clinking website scroll automaticly to meny chosen part of our website.
@@ -44,16 +44,16 @@
 
 - Finaly footer section contains usefull contact information and link (icons changing color when highlighted for redirecting us on the social media websites)
 
-#### Futeres possible to Implement
+### Futeres possible to Implement
 - One of the future ideas might be header positioned "Get a free quote button" with form that could be submit with clients adres and contact information.
 - Our jobs section can be easly  modified and developed in the future by adding more types of jobs or possibly creating photos galleries. 
 - Footer is another element with some space to add important information or another social links icons.
 
-#### Technologies Used
+### Technologies Used
 - Web site is creaed using  HTML, CSS, BOOTSTRAP.
 - In the project were used media from Adobe stock.
 
-#### Testing
+### Testing
 
 ###### Tested Devices:
 - Iphone 7
@@ -74,10 +74,13 @@
 - social media links highlightning (Footer) 
 
 ###### Bugs and problems 
-- responsivnes Header quotetion positioning . 
+
 
 #### Deployment
 * Website content deployed on -Github 
+
+- Website github link: 
+  https://bartie1982.github.io/milestone-project-1/
 
 ####  HTML, CSS, BOOTSTRAP Code sources
 * Parts of Navbar html - source Getboootstrap.com
@@ -98,9 +101,6 @@
 - Photos used in this site were obtained from: 
 - Library of constraction company, website is build for.
 - Bought from  adobe stock library
-
-#### Website link
-- https://bartie1982.github.io/milestone-project-1/
 
 #### Acknowledgements
 
