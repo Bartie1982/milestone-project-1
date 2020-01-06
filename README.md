@@ -90,7 +90,7 @@
 #### Credits
 * www.codeinstitute.net
 * www.github.com
-* www.etboootstrap.com
+* www.getboootstrap.com
 * www.balsamiq.com
 * www.geeksforgeeks.org
 * www.w3schools.com
