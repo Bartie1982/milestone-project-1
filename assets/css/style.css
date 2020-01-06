@@ -232,6 +232,8 @@ footer {
 
 }   
 .social {
+     margin-top: 20px;
+     
      margin-right: auto;
      margin-left: auto;
 }
@@ -256,3 +258,7 @@ footer {
     background: #40A8AF;
 }
 
+.email-form {
+     margin-right: auto;
+     margin-left: auto;
+}
