@@ -88,11 +88,11 @@
 * Getbootstrap.com classes used
 
 #### Credits
-* Code institute.
-* Github.
-* Getboootstrap.com
-* Balsamiq
-* geeksforgeeks.org
+* www.codeinstitute.net
+* www.github.com
+* www.etboootstrap.com
+* www.balsamiq.com
+* www.geeksforgeeks.org
 * www.w3schools.com
 
 #### Content
