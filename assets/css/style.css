@@ -36,6 +36,9 @@ header {
     margin-right: 2px;
     padding-left: 0px;
     padding-right:0px;
+    opacity: .7;
+    position: fixed;
+    z-index: 1;
     
 }
 

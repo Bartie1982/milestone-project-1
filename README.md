@@ -30,7 +30,7 @@
 - Starting at about us then our jobs and description of services types, then user may folow to company's fundamentals and philosophy description, testimonials section and finaly contact and social links information.
 
 ### Section overview
-- Project starts with logo which simply clicked redirecting us to homepage.
+- Project starts with fixed logo which simply clicked redirecting us to homepage.
 - Menu bar contains six elements which direct us to a proper website section.
 - When pointed with cursor elements are delicate highlighted. By clinking website scroll automaticly to meny chosen part of our website.
 
