@@ -27,40 +27,47 @@ header {
 }
 
 .logo {
-    float: right;
     background-repeat: no-repeat;
     background-size: 30px;
     min-height: 20px;
     height: 50px;
-    margin-top: 20px;
-    margin-left: 15px;
+    margin-top: inherit;
+    margin-left: 20px;
+    margin-right: 2px;
+    padding-left: 0px;
+    padding-right:0px;
     
-}  
+}
+
 
 .navbar {
-    margin-top: 13px;
-    margin-left: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    
 }
 
 .navbar-dark {
-    position: relative;
     font-size: 22px;
-
+    font-weight: 400;
 }
 
-.navbar-brand {
-    margin-bottom: 8px;
-    font-size: 25px;
-    
-}
+.custom-toggler.navbar-toggler { 
+    border-color: #ADD8E6;
+} 
+
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: #F0F8FF; 
+} 
 
 .quote {
-    margin-bottom: 0;
-    float: right;
-    color: #cdcdcd;
+    color: #F0FFF0;
     font-family: "Exo", Montserrat;
     font-weight: 100;
     font-size: 30px;
+    text-align: center;
+
     
 }
 
@@ -93,7 +100,7 @@ header {
 /*----------------------------------------------Our jobs*/
 
 .polaroid {
-  width: 250px;
+  width: 290px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   margin: 30px auto 30px auto;
@@ -161,8 +168,6 @@ h3,
 h4 {
        margin: 0;
 }
-
-
 
 hr {
     background-color: grey;

@@ -74,7 +74,7 @@
 - social media links highlightning (Footer) 
 
 ###### Bugs and problems 
-
+- /favicon.ico:1 Failed to load resource: the server responded with a status of 503 ()
 
 #### Deployment
 * Website content deployed on -Github 
@@ -92,6 +92,8 @@
 * Github.
 * Getboootstrap.com
 * Balsamiq
+* geeksforgeeks.org
+* www.w3schools.com
 
 #### Content
 
