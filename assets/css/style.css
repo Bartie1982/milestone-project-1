@@ -219,21 +219,7 @@ footer {
     
 }
 
-.quote-pdf i {
-    font-size: 20px;
-    color: #fafafa;
-    text-align: center;
-    padding-left: 8px;
-    transition: all 0.45s ease-in;
-    -moz-transition: all 0.45s ease-in;
-    -webkit-transition: all 0.45s ease-in;
-    -o-transition: all 0.45s ease-in;
-}
 
-.quote-pdf i:hover {
-    color: #40A8AF;
-
-}   
 .social {
      margin-top: 20px;
      
@@ -259,9 +245,4 @@ footer {
 
 .social-links li a i:hover {
     background: #40A8AF;
-}
-
-.email-form {
-     margin-right: auto;
-     margin-left: auto;
 }

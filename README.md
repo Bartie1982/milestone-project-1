@@ -55,6 +55,10 @@
 
 ### Testing
 
+###### Html css tests:
+- W3c validator
+- W3c css validator
+
 ###### Tested Devices:
 - Iphone 7
 - Iphone 7 plus
